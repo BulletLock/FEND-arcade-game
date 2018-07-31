@@ -1,4 +1,8 @@
-
+/***************************
+Visit following link to know more about the changes you need to make to the game
+link - https://docs.google.com/document/d/19YhM2gF_8b6csbvVpuarFRycq7Hc3M9qIURMhHYAXYY
+===========Arvind==========
+***************************/
 const player = new Player();
 const enemyOne = new Enemy(0, 0.8);
 const enemyTwo = new Enemy(1, 1.8);
